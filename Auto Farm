@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LimeScripts/source-bimbimbambam/refs/heads/main/Auto%20Farm%20v1.2.txt"))()
