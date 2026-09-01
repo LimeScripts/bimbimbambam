@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LimeScripts/source-bimbimbambam/refs/heads/main/Gingerscope%20Spawner%20v1.0.txt"))()
