@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LimeScripts/source-bimbimbambam/refs/heads/main/Spawner%20v1.1.txt"))()
